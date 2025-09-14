@@ -43,8 +43,8 @@ edges2shoes/
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
-    cd <your-repository-name>
+    git clone [https://github.com/Anany25/sketch-image-shoes/](https://github.com/Anany25/sketch-image-shoes/)
+    cd sketch-image-shoes
     ```
 
 2.  **Download and prepare the dataset** as described in the "Dataset" section.
